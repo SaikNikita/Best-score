@@ -9,4 +9,4 @@
 
 Обе модели - catboost. Для ргерессии использовался пуассоновский лос.
 
-Ссылка на архив с данными и моделью: 
+Ссылка на архив с данными и моделью: https://drive.google.com/file/d/1-0x8DzE-7RrhtJi38d4M4h4h0xlxzTDJ/view?usp=sharing
